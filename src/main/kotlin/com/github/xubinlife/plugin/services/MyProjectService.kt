@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.xubinlife.plugin.services
 
+import com.github.xubinlife.plugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

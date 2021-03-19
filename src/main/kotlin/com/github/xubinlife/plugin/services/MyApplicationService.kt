@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xubinlife.plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xubinlife.plugin.MyBundle
 
 class MyApplicationService {
 
